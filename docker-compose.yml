@@ -11,3 +11,4 @@ services:
       - ./data:/srv
       - ./filebrowser.db:/database.db
       - ./filebrowser.json:/.filebrowser.json
+      - ./branding:/branding

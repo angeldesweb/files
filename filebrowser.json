@@ -4,5 +4,10 @@
   "address": "",
   "log": "stdout",
   "database": "/database.db",
-  "root": "/srv"
+  "root": "/srv",
+  "branding": {
+    "name": "Documents service",
+    "folder": "./branding",
+    "disableExternal": false
+  }
 }
